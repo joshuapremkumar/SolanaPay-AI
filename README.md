@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![SolanaPay AI](./assets/banner.png)
+![SolanaPay AI](./assets/NosanaXEliza.jpg)
 
 <h3>🤖 Your Personal Solana Payment Assistant 🤖</h3>
 
