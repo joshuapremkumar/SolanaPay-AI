@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![SolanaPay AI](./assets/NosanaXEliza.jpg)
-
 <h3>🤖 Your Personal Solana Payment Assistant 🤖</h3>
 
 <p align="center">
